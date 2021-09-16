@@ -1,10 +1,18 @@
-This is my first html project. In this project, I aim to create a basic blog site with links to recicpes. This should showcase (and allow me to practise(!) the new skills I have learnt)
+This is my first html project. In this project, I aim to create a basic blog site with links to recipes. This should showcase (and allow me to practise(!) the new skills I have learnt)
 
 This should include:
--Setting up my root folder and files for other pages beyond the home page
--Practise setting up my html boilerpate 
+-Setting up my directory
+
+-Practise html boilerpate
+
 -Using bold and italicised text
+
 -Linking other web pages (both absolute and regular)
+
+-Using ordered and unordered lists
+
 -Embedding images
 
-I will return to this project in the future to improve it with a CSS file.
+It hasn't been too challenging so far but I'm sure it will get a lot trickier!
+
+I will return to this project in the future to improve it with CSS.
