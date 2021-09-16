@@ -1,7 +1,10 @@
 This is my first html project. In this project, I aim to create a basic blog site with links to recipes. This should showcase (and allow me to practise(!) the new skills I have learnt)
 
 This should include:
--Setting up my directory
+
+-Familairising myself with the command line, git and git hub
+
+-Setting up a directory
 
 -Practise html boilerpate
 
