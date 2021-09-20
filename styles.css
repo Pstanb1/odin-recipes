@@ -1,0 +1,31 @@
+img {
+    height: auto;
+    width: 300px;
+    margin:0 auto;
+    display: block;
+}
+
+
+.heading {
+    background-color:teal;
+    text-align: center;
+    border: 3px solid black;
+    
+}
+
+.buttons {
+    margin:0 auto;
+    display: block;
+    background-color: steelblue;
+    color: red;
+    font-size: 30px;
+}
+
+body {
+    background-color:rgb(96, 214, 145);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    color:rgb(128, 128, 128);
+}
